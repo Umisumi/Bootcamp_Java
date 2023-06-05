@@ -1,12 +1,34 @@
 {
-  
-
-
-
-
-
-
-
+  "academia de idiomas": {
+    "nombre": "Next Lang",
+    "calle": 123,
+    "ciudad": "Villa Carlos Paz",
+    "cursos": [
+      {
+        "nombre de curso": "Inglés básico",
+        "duración": "4 semanas",
+        "precio": "$100"
+      },
+      {
+        "nombre de curso": "Inglés avanzado",
+        "duración": "20 semanas",
+        "precio": "$400"
+      },
+      {
+        "nombre de curso": "Italiano básico",
+        "duración": "5 semanas",
+        "precio": "$120"
+      }
+    ],
+    "teléfonos de contacto": [
+      {
+        "teléfono 1": 156734756
+      },
+      {
+        "teléfono 2": 154456234
+      }
+    ]
+  }
 }
 
 
