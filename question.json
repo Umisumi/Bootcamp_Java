@@ -1,7 +1,23 @@
-{
+[
+  {
     "category": "Doom",
     "question": "¿Para cuantos sistemas distintos se ha lanzado oficialmente el videojuego Doom?",
-    "options": [1, 2, 3],
+    "options": [3, 13, 10],
     "answer": 1,
     "explanation": "En diciembre de 1997 el código fuente del Doom original fue liberado, y a pesar de que los shooters en primera persona habían dado el salto poligonal, se había abierto *La Caja de Pandora* y desatado la creatividad de miles de fans que podían hacerse su Doom a medida."
-}
+  },
+  {
+    "category": "Doom",
+    "question": "¿Cómo se llamaba el motor de juego que usaron para Doom?",
+    "options": ["Doom Engine", "Unity", "id Tech 1"],
+    "answer": 2,
+    "explanation": "Antes de Doom, id Software ideó un sistema de vista dinámico en primera persona que debutó en Wolfenstein 3D."
+  },
+  {
+    "category": "Doom",
+    "question": "¿A quién le debemos el nombre que definiría los primeros años de los shooters en primera persona?",
+    "options": ["Tom Cruise", "Henry Cavill", "Michael Jackson"],
+    "answer": 0,
+    "explanation": "DOOM es un nombre con mucho gancho y sobre todo si se escribe con mayúsculas. De hecho es mucho mejor que Attack Of The Attackers, uno de los nombres que inicialmente iba a tener."
+  }
+]
