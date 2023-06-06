@@ -1,26 +1,24 @@
-[
-  {
-    "category": "Genshin Impact",
-    "description": "Preguntas relacionadas con el videojuego de mundo abierto Genshin Impact."
-  },
-  {
-    "category": "Doom",
-    "description": "Preguntas relacionadas con el videojuego shooter en primera persona DOOM"
-  },
-  {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
-  },
-  {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
-  },
-  {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
-  },
-  {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
-  }
-]
+{
+  "category": "Genshin Impact",
+  "description": "Preguntas relacionadas con el videojuego de mundo abierto Genshin Impact."
+},
+{
+  "category": "Doom",
+  "description": "Preguntas relacionadas con el videojuego shooter en primera persona DOOM"
+},
+{
+  "category": "Deportes",
+  "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+},
+{
+  "category": "Arte",
+  "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+},
+{
+  "category": "Cine",
+  "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+},
+{
+  "category": "Historia",
+  "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+}
