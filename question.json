@@ -1,9 +1,7 @@
-[
-  {
+{
     "category": "Doom",
     "question": "¿A quién le debemos el nombre que definiría los primeros años de los shooters en primera persona?",
     "options": ["Tom Cruise", "Henry Cavill", "Michael Jackson"],
     "answer": 0,
     "explanation": "DOOM es un nombre con mucho gancho y sobre todo si se escribe con mayúsculas. De hecho es mucho mejor que Attack Of The Attackers, uno de los nombres que inicialmente iba a tener."
-  }
-]
+}
