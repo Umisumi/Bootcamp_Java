@@ -1,13 +1,6 @@
 [
   {
     "category": "Doom",
-    "question": "¿Para cuantos sistemas distintos se ha lanzado oficialmente el videojuego Doom?",
-    "options": ["1", "2", "3"],
-    "answer": 1,
-    "explanation": "En diciembre de 1997 el código fuente del Doom original fue liberado, y a pesar de que los shooters en primera persona habían dado el salto poligonal, se había abierto *La Caja de Pandora* y desatado la creatividad de miles de fans que podían hacerse su Doom a medida."
-  },
-  {
-    "category": "Doom",
     "question": "¿Cómo se llamaba el motor de juego que usaron para Doom?",
     "options": ["Doom Engine", "Unity", "id Tech 1"],
     "answer": 2,
