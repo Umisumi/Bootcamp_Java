@@ -1,6 +1,7 @@
 package examples;
 
 import java.util.Scanner;
+//import javax.swing.JOptionPane;
 
 /**
  *
@@ -16,12 +17,16 @@ public class Conversor {
 
         Scanner input = new Scanner(System.in);
         double millas, kilometros;
+        //String cadena;
+        String nombre;
 
-        //cadena = JOptionPane.showInputDialog("Hola Mundo");
+        //cadena = JOptionPane.showInputDialog("Ingresa tu nombre");
+        System.out.print("Ingresa tu nombre: ");
+        nombre = input.next();
         System.out.println("Distancia en millas: ");
         millas = input.nextDouble();
         kilometros = millas * 1.60934;
-        System.out.println("La converción a kilómetros es: " + kilometros);
+        System.out.println("La converción a kilómetros es: " + kilometros + ", trabajo realizado por: " + nombre);
     }
 
 }
