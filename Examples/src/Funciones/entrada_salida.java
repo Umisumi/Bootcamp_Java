@@ -2,7 +2,6 @@ package Funciones;
 
 import java.util.Scanner;
 
-
 public class entrada_salida {
 
     /**
@@ -11,7 +10,7 @@ public class entrada_salida {
     public static void main(String[] args) {
 
         int numeros[] = new int[5];
-        String datos[] = {"Piedra", "Papel", "Tijeras"};
+        //String datos[] = {"Piedra", "Papel", "Tijeras"};
         capturarDatosUsuario(numeros);
         mostrarDatosArray(numeros);
         System.out.println();

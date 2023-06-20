@@ -2,7 +2,6 @@ package Arrays_For;
 
 import javax.swing.JOptionPane;
 
-
 public class busqueda {
 
     /**
